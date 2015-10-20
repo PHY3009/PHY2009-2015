@@ -218,3 +218,7 @@ So you've got a copy running and there's some new update? Let's update!
     1. `git merge singlepage/publish`
 4. You can alternatively update using rebase. This *rewrites history* (**bad**), but it is cleaner.
     1. `git rebase singlepage/publish`
+=======
+
+This is a compressed-commit version of
+[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
