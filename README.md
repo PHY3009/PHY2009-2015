@@ -1,224 +1,1 @@
-Fancy jekyll powered single page site
-======================
-
-Here're some examples:
-
-- **This repository** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
-- **Education:**
-  - [University of Macau HCI team](http://gonzaleswu.github.io/TeamAwesome/) ([source](https://github.com/GonzalesWu/TeamAwesome))
-  - [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
-  - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
-  - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint/) -- ([source](https://github.com/sprig/mint-sp))
-  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
-  - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
-  - [MA441 @ QueensBorough Community College NY](http://kwangkim.github.io/MA441/) ([source](https://github.com/kwangkim/MA441/))
-  - [@opsbug Tech Inoculator](http://increasingprobability.com/) ([source](https://github.com/increasingprobability/increasingprobability.github.io))
-  - [Mobi student organization](https://idappthat.github.io/)-- Mobile UX @ University of Texas at Arlington ([source](https://github.com/idappthat/idappthat.github.io))
-- **Open Source Projects:**
-  - [argon.js](http://argonjs.io/) JS framework for adding augmented reality to web apps ([source](https://github.com/argonjs/argonjs.github.io))
-  - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
-  - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
-  - [Langmuir](https://langmuirsim.github.io/) Charge transfer simulations in organic electronics. ([source](https://github.com/LangmuirSim/langmuirsim.github.io))
-  - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
-  - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
-  - [HTML Tidy Advocacy Community Group](http://www.htacg.org/) ([source](https://github.com/htacg/htacg.github.io))
-  - [EssayMaker](http://getessaymaker.com) science fair project made to help write essays.
-  - [AfriLeaks](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) (since changed, still cool!) - secure whistleblowers confidential submition project page ([source when single-paged](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page/tree/698e3b0b1a67cc5f072ccd3a8f24b6d5e3ad406a))
-  - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
-  - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
-  - [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
-  - [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
-  - [vampd](http://vampd.io) Vagrant Drupal Box ([source](https://github.com/vampd/vampd/tree/gh-pages))
-  - [Automatune](http://mlsites.github.io/Automatune-Site/) - discover and share melodies ([source](https://github.com/mlsites/Automatune-Site/))
-  - [The Rosette Platform](https://rosette-proj.github.io/)- git-based, internationalization framework (Ruby) ([source](https://github.com/rosette-proj/rosette-proj.github.io))
-  - [PHP Cat](http://phpcat.github.io/phpcat/) PHP Developer Group in Catalan (grup de desenvolupadors PHP de llengua catalana) ([source](https://github.com/phpcat/phpcat/))
-  - [Alt.Net Australia User Group](http://www.ozalt.net/) ([source](https://github.com/ozaltnet/ozaltnet.github.io))
-  - [FeedReader](http://jangernert.github.io/feedreader/) Desktop RSS client ([source](https://github.com/jangernert/feedreader/tree/gh-pages))
-- **Events / Confrences**
-  - [Code Across 2015 @Seoul](http://codeforseoul.org/codeacross/) 전 세계 시빅해커들과 함께 하는 ([source](https://github.com/codeforseoul/codeacross))
-  - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
-  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
-  - [FSU Festival of New Music](https://fsufnm.github.io/) (17th Biennial) ([source](https://github.com/fsufnm/fsufnm.github.io))
-  - [Open CoMo](http://jakewins.github.io/opencomo-site/) Open-Data Incubator for Columbia, MO. 13th-15th of November 2015 ([source](https://github.com/jakewins/opencomo-site))
-- **Personal:**
-  - [Karen and Scott wedding](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
-  - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
-  - [Harmanpreet weds Gurwinder](http://harmanwedsgurwinder.in/) ([source](https://github.com/harmanhanzra/harmanhanzra.github.io))
-  - [Chris & Katie wedding](http://katieball.me/wedding-style/) ([source](https://github.com/roachhd/wedding-style))
-- **Products:**
-  - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
-  - [Physical.media](http://joshmeek.com/PhysicalMedia-ComingSoon/) teaser page (album release tracker) ([source](https://github.com/JoshM33k/PhysicalMedia-ComingSoon))
-  - [DEVISSCHER web design](http://devisscher.github.io/templates/) ([source](https://github.com/devisscher/templates/))
-  - [Helpers in Korea](https://itgame.github.io/) ([source](https://github.com/itgame/itgame.github.io))
-  - Zeno- internet for gamers original teaser page: ([source](https://github.com/zenoio/zenoio.github.io))
-- **Resumes:**
-  - [Péter Sólymos](http://peter.solymos.org/) resume ([source](https://github.com/psolymos/psolymos.github.io))
-  - [Sumedha Pramod](http://www.pramod.ninja/) resume ([source](https://github.com/pramodsum/pramodsum.github.io))
-  - [Jiawei Gao](http://jiaweigao.github.io/) resume ([source](https://github.com/jiaweigao/jiaweigao.github.io))
-  - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
-  - [Riderman de Sousa Barbosa](http://ridermansb.me/) Asp.net developer ([source](https://github.com/Ridermansb/ridermansb.github.io))
-  - [Lia Bogoev](https://bogoli.github.io/) UX designer from utah ([source](https://github.com/bogoli/bogoli.github.io))
-  - [Péter Sólymos](http://peter.solymos.org/) resume ([source](https://github.com/psolymos/psolymos.github.io))
-  - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
-  - [Nick Janetakis](http://nickjanetakis.com/#development) resume ([source](https://github.com/nickjj/nickjj.github.io))
-  - [Emil Ahlbäck](https://mull.github.io/) resume ([source](https://github.com/mull/mull.github.io))
-  - [ChipsnCode / Prajwal Bhattaram](http://chipsncode.com/) resume ([source](https://github.com/Marzogh/Marzogh.github.io))
-  - [Sean Goodwin](http://www.seangoodwin.net/) resume ([source](https://github.com/seanegoodwin/seanegoodwin.github.io))
-  - [Laurence Roland James](http://www.laurencerolandjames.com/) personal page, ([source](https://github.com/LaurenceRolandJames/LaurenceRolandJames.github.io))
-  - [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
-  - [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
-  - [Michael A. Schmidt](http://micha-a-schmidt.github.io/physics/) particle physics lecturer at the University of Sydney ([source](https://github.com/micha-a-schmidt/physics/))
-  - [Tim Beissinger](https://timbeissinger.github.io/) postdoc in Plant Sciences at UC Davis ([source](https://github.com/timbeissinger/timbeissinger.github.io))
-  - [Jin Li](https://just4jin.github.io/) MS student in Systems and Information Engineering @ UVA ([source](https://github.com/just4jin/just4jin.github.io))
-  - [Emil Ahlbäck](https://mull.github.io/) ([source](https://github.com/mull/mull.github.io))
-  - [Péter Sólymos](http://peter.solymos.org/) 'statistical computing meets biodiversity conservation' ([source](https://github.com/psolymos/psolymos.github.io))
-  - [My First Password](http://doublejosh.github.io/myfirstpassword/) (guide for choosing passwords) ([source](https://github.com/doublejosh/myfirstpassword/))
-- *Let me know of more!*
-
-
-## Why?
-
-Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
-
-- Each vertical section is a markdown file in **_posts/** directory.
-  * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
-- Each vertical section sets it's own **color**, **header icon** (or image), **title**, and easy-to-write markdown body.
-- Only **two things** to edit:
-  1. Edit `_config.yml` to set the site title, description, etc
-  2. Add _posts/*.md to make each vertical section. Copy some examples and add the sections from your README.md for a fast start!
-- Easy adding of **SEO terms**, **favicon** & such, and **google analytics token**.
-
-Sound good? Let's go!
-
-There are three way to get started: (links jump to that section)
-
-1. Make a [**user homepage**](#setup-as-user-homepage) (or organization)
-2. Make a [**standalone project**](#setup-as-standalone-project-page) page
-3. Make a [site under an **existing project**](#setup-inside-existing-project)
-
-
-
--------------------------
-
-## Setup as user homepage
-
-- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
-- Rename your new repository to `**username**.github.io`. (click settings in the right column)
-- Clone your repository, **cd into the project**
-- Run `git checkout publish && git branch -m master && git push -u origin master && git branch -D gh-pages` to get the *publish* branch as master for a clean, empty starting point.
-- On your github project page go to *settings* again and change your **default branch** to ***master***
-- Run `git push origin --delete gh-pages` to delete your remote's development branch
-
-Now hop over to [Usage](#usage) to get it running with your own stuff!
-
-**When you publish changes use `git push -u origin master`**
-
--------------------------
-
-
-## Setup as standalone project page
-
-- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
-- Rename your new repository to `whatever you want`. (click settings in the right column)
-  * It will go live at yourusername.github.io/**WhateverYouWant**
-- Clone your repository, cd into the project
-- Run `git checkout publish && git branch -D gh-pages && git branch -m gh-pages && git push -uf origin gh-pages` to swap the *publish* and *gh-pages* branch.
-
-Now hop over to [Usage](#usage) to get it running with your own stuff!
-
-**When you publish changes use `git push -u origin gh-pages`**
-
--------------------------
-
-
-## Setup inside existing project
-
-This is the most complicated use-case .. but it's the coolest.
-Say you've got your kickass project `github.com/t413/kicker` and want to have
-some web presence to post about on [hacker news](http://news.ycombinator.com).
-This will create an orphan branch called `gh_pages` in your repository
-where you can publish changes, posts, images, and such. It won't alter your code at all.
-
-- `cd` into your project on the command line
-- use `git remote add -t publish singlepage git@github.com:t413/SinglePaged.git` to get access to this repository.
-- use `git fetch singlepage publish:gh-pages` to fetch the remote branch
-- use `git branch --set-upstream gh-pages singlepage/publish && git checkout gh-pages;`
-  This creates and checks out an orphan branch called gh-pages that tracks the original and lets you make changes.
-- When you run `git push gh-pages:origin/gh-pages` it'll be live at *yourusername.github.io/repositoryName*
-
-Now hop over to [Usage](#usage) to get it running with your own stuff!
-
-**When you publish changes use `git push -u origin gh-pages`**
-
-
-
-## Usage
-
-Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.
-
-- Edit `_config.yml` to change your title, keywords, and description.
-- Create a new file in `_posts/` called `2014-01-01-intro.md`
-  Edit it, and add:
-
-~~~
-  ---
-  title: "home"
-  bg: white     #defined in _config.yml, can use html color like '#010101'
-  color: black  #text color
-  style: center
-  ---
-
-  # Example headline!
-  and so on..
-~~~
-
-- Create a second post called `2014-01-02-art.md` with an divider image this time:
-
-~~~
-  ---
-  title: "Art"
-  bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
-  color: white   #text color
-  fa-icon: paint-brush
-  ---
-
-  #### A new section- oh the humanity!
-~~~
-
-**Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
-
-- install Jekyll with `sudo gem install github-pages`
-- run `jekyll serve -w`
-  - visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
-- Push changes and see them live!
-
-
-
-
-## Changing your colors
-
-- In each post file you can define `bg: mycolor` and `color: myothercolor` to change the background and text colors for that section.
-- **mycolor** can be a quoted html color like `'#0fbfcf'` or a key to a special color defined in **_config.yml** under 'colors'.
-  - **Note:** Changes to _config.yml require a manual restart to your local server with `^C` and `jekyll serve -w`.
-
-Nifty, right!
-
-
-
-## Updating
-
-So you've got a copy running and there's some new update? Let's update!
-
-1. Checkout your github-pages branch
-  - `git checkout gh-pages` for a standalone or existing page
-  - `git checkout master` for a *username.github.io* page
-2. run `git remote | grep -q "singlepage" || git remote add -t publish singlepage https://github.com/t413/SinglePaged.git` to be sure you have access to this repository (you can run this command at any time).
-2. `git fetch singlepage` to fetch-in-place new changes.
-3. Update to the new base (using merge)
-    1. `git merge singlepage/publish`
-4. You can alternatively update using rebase. This *rewrites history* (**bad**), but it is cleaner.
-    1. `git rebase singlepage/publish`
-=======
-
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+# Computation in the Physical SciencesQuest University CanadaOctober - November 2015**Class Hours:**1:00PM to 4:00PM, in academic 220**Tutor:**Tiffany Timbers, TBD </br>**e-mail:** tiffany.timbers@gmail.com </br>**website:** www.tiffanytimbers.com </br>**twitter:** @TiffanyTimbers**Prerequisites:** Information, Measurement and Algebra Q Skills Strands. **Course Description:** Take your Question to the next level with high level computational open source programming language: Python! Students begin with the basics of coding in the first few days: variables, loops and functions. Students will learn critical practices to carry out a computational project from beginning to end, including code modularization, readability and re-use, as well as version control to organize their coding projects and collaborate effectively. Ultimately, students will use these tools to analyze their own datasets in a term project. For preparation, students will work through a sample dataset from a radioactive isotope decay experiment together as a class. Skills will be taught via a combination of live-coding sessions and work-along sessions. Think of it as a guided three hour hackathon each day of the block. **Course Learning Objectives** </br>• Students will be able to independently complete a computational science project using Python</br>• Students will be able to version control their computational projects using Git and Github</br>• Students will be able to solve computational problems with modular, reusable, readable and reproducible code </br>• Students will be able to disseminate the purpose, usage and outputs of code they write via thorough code commenting, README's, and Jupyter notebooks </br>**Required Textbook:** [Effective Computation in Physics by Anthony Scopatz & Kathryn Huff](http://physics.codes/)**Course Website** URL## Course Evaluation<table>  <tr>    <td>Quizzes</td>    <td>25%</td>   </tr>  <tr>    <td>Assignments</td>    <td>35%</td>   </tr>  <tr>    <td>Group Code Review</td>    <td>15%</td>  </tr>  <tr>    <td>Final Project</td>    <td>25%</td>  </tr></table>* **Quizzes** will occur frequently, be short, and consist of multiple choice and short answer questions covering code syntax, project organization and general principles of scientific coding. The first quiz will be a practice quiz which will be graded for completion and not accuracy. This will provide students with a good expectation of the scope and difficulty of the remaining quizzes, which will be marked for accuracy. Please get in touch with me immediately if you have any medical issues or learning differences that need to be accommodated. It is your responsibility to consult with and follow the Student Accommodation Policy: http://www.questu.ca/about_quest/policies.php * **Assignments** will consist of applying the material learned in class to the students final project. A detailed list of assignments and assignment expectations will be provided on the first day of class. Assignment grading will be broken down as 40% for the planning and documentation of how the problem will be solved, 20% for how accurate the code is, 20% for how reusable the code is, and 20% for how readable the code is. In other words, code that does not work can get a maximum of 40%.   * **Group Code Review** will be done in preassigned small groups of ~ 3-4 and facilitated by the tutor. Students will share the code that they have recently written for their finalproject, along with a written [plan](http://billmills.github.io/blog/ten-minute-plans/) about what the code is supposed to do. The other students will read the shared plan and code, and then make comments and/or edits on it and submit these suggestions to the student who wrote the code via a pull request. The following day in class, each student will be given 5 minutes to share their most important piece of feedback on the code with the group. All participants will be expected to follow a strict [code of conduct](http://software-carpentry.org/conduct.html). The assessment for the group code review will be 20% for the 10 minute plan for your code, 60% for written comments on others code, and 20% for oral discussion of feedback on others code.* **Final Project** topic will be decided on in the first week and ideally fall under the umbrella of the student's question. This will be done in consultation with the tutor. Students will work on the project over the duration of the course, applying what they learned in each class to their project with the daily assignments. Students will also be given 6 hours of in-class time to work on the final project at the end of the course. During these in class work-along sessions, students are encouraged to consult the tutor and each other for help when needed. The project will be done under version control and submitted as a repository to Github. This assessment will consist of a proposal (5%), the public repository (5%), a final written report (10%), and Jupyter notebook presentation of the project (5%).## Course Schedule<table>  <tr>    <th>Day</td>    <th>Date</td>     <th>Work Due</td>    <th>Class Topic</td>  </tr>  <tr>    <td>1</td>    <td>2015-10-26</td>    <td></td>     <td>The Command Line</td>  </tr>  <tr>    <td>2</td>    <td>2015-10-27</td>    <td>Assignment 1, Quiz 1</td>     <td>Version Control 1</td>  </tr>  <tr>    <td>3</td>    <td>2015-10-28</td>    <td>Assignment 2</td>     <td>Introduction to Python</td>  </tr>  <tr>    <td>4</td>    <td>2015-10-29</td>    <td>Assignment 3, Quiz 2</td>     <td>Control Flow and Logic</td>  </tr>  <tr>    <td>5</td>    <td>2015-10-29</td>    <td>Assignment 4, Final Project Proposal</td>     <td>Operating with Functions</td>  </tr>  <tr>    <td>6</td>    <td>2015-10-30</td>    <td>Assignment 5, Quiz 3</td>     <td>Analysis and Visualization</td>  </tr>  <tr>    <td>7</td>    <td>2015-11-03</td>    <td>Assignment 6</td>     <td>Regular Expressions</td>  </tr>  <tr>    <td>8</td>    <td>2015-11-04</td>    <td>Assignment 7, Quiz 4</td>     <td>NumPy: Thinking in Arrays</td>  </tr>  <tr>    <td>9</td>    <td>2015-11-05</td>    <td>Assignment 8</td>     <td>Storing Data</td>  </tr>  <tr>    <td>10</td>    <td>2015-11-06</td>    <td>Assignment 9, Quiz 5</td>     <td>Important Data Structures</td>  </tr>  <tr>    <td>11</td>    <td>2015-11-07</td>    <td>Assignment 10, Ten Minute Plan</td>     <td>Debugging and Testing</td>  </tr>  <tr>    <td>12</td>    <td>2015-11-10</td>    <td>Assignment 11, Group Code Review</td>     <td>Version Control 2</td>  </tr>  <tr>    <td>13</td>    <td>2015-11-11</td>    <td>Assignment 12, updated Ten Minute Plan</td>     <td>Building Pipelines and Software</td>  </tr>  <tr>    <td>14</td>    <td>2015-11-12</td>    <td>Assignment 13, Group Code Review</td>     <td>Publication</td>  </tr>  <tr>    <td>15</td>    <td>2015-11-13</td>    <td>Assignment 14, updated Ten Minute Plan</td>     <td>Using Remote Machines</td>  </tr>  <tr>    <td>16</td>    <td>2015-11-14</td>    <td>Group Code Review, updated Ten Minute Plan</td>     <td>Final Project Work-along</td>  </tr>  <tr>    <td>17</td>    <td>2015-11-17</td>    <td>Group Code Review</td>     <td>Final Project Work-along</td>  </tr>  <tr>    <td>18</td>    <td>2015-11-18</td>    <td>Final Project Report</td>     <td>Final Project Presentations</td>  </tr></table>The course is designed so that students will do approximately five hours of out-of-class work every day.## Course SoftwareWe will be working in the Bash Shell and Python, as well as performing version control with Git and Github. Installation instructions for the required Software can be found below. Please try to have these installed for the first day of class. If you have trouble with installation I will be having an office hour to help with installation issues on Mon Oct 27 from 11am -12 noon.<div id="shell"> <!-- Start of 'shell' section. -->  <h2>The Bash Shell</h2>  <p>    Bash is a commonly-used shell that gives you the power to do simple    tasks more quickly.  </p>  <div class="row">    <div class="col-md-4">      <h4 id="shell-windows">Windows</h4>      <p>        Download the Git for Windows	<a href="https://git-for-windows.github.io/">installer</a>. Run the        installer. <strong>Important: on the 6th page of the installation wizard (the        page titled `Configuring the terminal emulator...`) select `Use Windows'        default console window`. If you forgot to do this programs that you need        for the workshop will not work properly. If this happens rerun the        installer and select the appropriate option.</strong> This will provide you        with both Git and Bash in the Git Bash program.      </p>    </div>    <div class="col-md-4">      <h4 id="shell-macosx">Mac OS X</h4>      <p>        The default shell in all versions of Mac OS X is bash, so no        need to install anything.  You access bash from the Terminal        (found in        <code>/Applications/Utilities</code>).  You may want to keep        Terminal in your dock for this workshop.      </p>    </div>    <div class="col-md-4">      <h4 id="shell-linux">Linux</h4>      <p>        The default shell is usually Bash, but if your        machine is set up differently you can run it by opening a        terminal and typing <code>bash</code>.  There is no need to        install anything.      </p>    </div>  </div></div><div id='git'> <!-- Start of 'Git' section. GitHub browser compatability           is given at https://help.github.com/articles/supported-browsers/-->  <h2>Git</h2>  <p>    Git is a version control system that lets you track who made changes    to what when and has options for easily updating a shared or public    version of your code    on <a href="https://github.com/">github.com</a>. You will need a    <a href="https://help.github.com/articles/supported-browsers/">supported</a>    web browser (current versions of Chrome, Firefox or Safari,    or Internet Explorer version 9 or above).  </p>  <div class="row">    <div class="col-md-4">      <h4 id="git-windows">Windows</h4>      <p>        Git should be installed on your computer as part of your Bash        install (described above).      </p>    </div>    <div class="col-md-4">      <h4 id="git-macosx">Mac OS X</h4>      <p>        <strong>For OS X 10.9 and higher</strong>, install Git for Mac        by downloading and running the most recent "mavericks" installer from        <a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.        After installing Git, there will not be anything in your <code>/Applications</code> folder,        as Git is a command line program.        <strong>For older versions of OS X (10.5-10.8)</strong> use the        most recent available installer labelled "snow-leopard"        <a href="http://sourceforge.net/projects/git-osx-installer/files/">available here</a>.      </p>    </div>    <div class="col-md-4">      <h4 id="git-linux">Linux</h4>      <p>        If Git is not already available on your machine you can try to        install it via your distro's package manager. For Debian/Ubuntu run        <code>sudo apt-get install git</code> and for Fedora run        <code>sudo yum install git</code>.      </p>    </div>  </div></div><div id="editor"> <!-- Start of 'editor' section. -->  <h2>Text Editor</h2>  <p>    When you're writing code, it's nice to have a text editor that is    optimized for writing code, with features like automatic    color-coding of key words.  The default text editor on Mac OS X and    Linux is usually set to Vim, which is not famous for being    intuitive.  if you accidentally find yourself stuck in it, try    typing the escape key, followed by <code>:q!</code> (colon, lower-case 'q',    exclamation mark), then hitting Return to return to the shell.  </p>  <div class="row">    <div class="col-md-4">      <h4 id="editor-windows">Windows</h4>      <p>        nano is a basic editor and the default that instructors use in the workshop.        To install it,         download the <a href="{{site.swc_installer}}">Software Carpentry Windows installer</a>        and double click on the file to run it.        <strong>This installer requires an active internet connection.</strong>      </p>      <p>        Others editors that you can use are        <a href="http://notepad-plus-plus.org/">Notepad++</a> or        <a href="http://www.sublimetext.com/">Sublime Text</a>.        <strong>Be aware that you must          add its installation directory to your system path.</strong>        Please ask your instructor to help you do this.      </p>    </div>    <div class="col-md-4">      <h4 id="editor-macosx">Mac OS X</h4>      <p>        nano is a basic editor and the default that instructors use in the workshop.        It should be pre-installed.      </p>      <p>        Others editors that you can use are        <a href="http://www.barebones.com/products/textwrangler/">Text Wrangler</a> or        <a href="http://www.sublimetext.com/">Sublime Text</a>.      </p>    </div>    <div class="col-md-4">      <h4 id="editor-linux">Linux</h4>      <p>        nano is a basic editor and the default that instructors use in the workshop.        It should be pre-installed.      </p>      <p>        Others editors that you can use are        <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,        <a href="http://kate-editor.org/">Kate</a> or        <a href="http://www.sublimetext.com/">Sublime Text</a>.      </p>    </div>  </div></div><div id="python"> <!-- Start of 'Python' section. Remove the third paragraph if           the workshop will teach Python using something other than           the IPython notebook.           Details at http://ipython.org/ipython-doc/2/install/install.html#browser-compatibility -->  <h2>Python</h2>  <p>    <a href="http://python.org">Python</a> is a popular language for    scientific computing, and great for general-purpose programming as    well.  Installing all of its scientific packages individually can be    a bit difficult, so we recommend    <a href="https://www.continuum.io/anaconda">Anaconda</a>,    an all-in-one installer.  </p>    <p>      Regardless of how you choose to install it,      <strong>please make sure you install Python version 3.x</strong>      (e.g., 3.4 is fine).    </p>    <p>      We will teach Python using the IPython notebook, a programming environment      that runs in a web browser. For this to work you will need a reasonably      up-to-date browser. The current versions of the Chrome, Safari and      Firefox browsers are all <a      href='http://ipython.org/ipython-doc/2/install/install.html#browser-compatibility'>supported</a>      (some older browsers, including Internet Explorer version 9      and below, are not).    </p>  <div class="row">    <div class="col-md-4">      <h4 id="python-windows">Windows</h4>      <ol>        <li>Open <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> with your web browser.</li>        <li>Download the Python 3 installer for Windows.</li>        <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Make Anaconda the default Python</strong>.</li>      </ol>    </div>    <div class="col-md-4">      <h4 id="python-macosx">Mac OS X</h4>      <ol>        <li>Open <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> with your web browser.</li>        <li>Download the Python 3 installer for OS X.</li>        <li>Install Python 3 using all of the defaults for installation.</li>      </ol>    </div>    <div class="col-md-4">      <h4 id="python-linux">Linux</h4>      </p>      <ol>        <li>Open <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> with your web browser.</li>        <li>Download the Python 3 installer for Linux.</li>        <li>Install Python 3 using all of the defaults for installation.        (Installation requires using the shell. If you aren't        comfortable doing the installation yourself        stop here and request help at the workshop.)</li>        <li>          Open a terminal window.        </li>        <li>          Type <pre>bash Anaconda-</pre> and then press          tab. The name of the file you just downloaded should          appear.        </li>        <li>          Press enter. You will follow the text-only prompts.  When          there is a colon at the bottom of the screen press the down          arrow to move down through the text. Type <code>yes</code> and          press enter to approve the license. Press enter to approve the          default location for the files. Type <code>yes</code> and          press enter to prepend Anaconda to your <code>PATH</code>          (this makes the Anaconda distribution the default Python).        </li>      </ol>    </div>  </div>  <p>  Once you are done installing the software listed above,  please go to <a href="setup/index.html">this page</a>,  which has instructions on how to test that everything was installed correctly.  </p></div>## Course Policies###Assessments•	All assessments are due at 12:00 noon on the day indicated: one hour before the start of class. •	All assignments will be expected to be submitted electronically via email during the first week of class, and then via Github in the following weeks•	Any submission that is late, even by one minute, will be given a grade of 0.  You are allowed one exception to this policy, where you are allowed a 24-hour extension to any assessment, with no penalty, provided you have a doctor’s note or some other relevant documentation. •	Any missed quizzes will be made up for by an oral quiz with the tutor. Any missed group code reviews will be made up for by a one-on-one code review with the instructor.### AttendanceIt is expected that you attend every class.  We begin each day at 1:00PM sharp.  If you must miss a class for any reason (*e.g.,* illness, family emergency, religious observance), contact me immediately, by e-mail.  Regardless of the reason, it is your responsibility to catch up on the material you have missed, and obtain the notes from a classmate (not from me).  Any missed quizzes will be made up for by an oral quiz with the tutor. If you miss four classes you may automatically fail the class. ### Technology You will need a laptop for all classes as we will be coding every single class. Please be respectful with cellphones during class.### Scheduling MeetingsIf you have an Academic Accommodation Plan, please make an appointment to see me on the morning of Day 1. I look forward to learning how I can be of service to you.If you have any other questions or concerns about the course, speak to me at the end of class (at 4PM), or contact me by e-mail, and we will set up a one-on-one meeting at a mutually convenient time. ### GradingWe will use the following scale to convert numerical scores into letter grades:<table>	<tr>		<td>A</td>		<td>93% – 100%</td>		<td>C+</td>		<td>77% – 79%</td>	</tr>	<tr>		<td>A-</td>		<td>90% – 92%</td>		<td>C</td>		<td>73% – 76%</td>	</tr>	<tr>		<td>B+</td>		<td>87% – 89%</td>		<td>C-</td>		<td>70% – 72%</td>	</tr>	<tr>		<td>B</td>		<td>83% – 86%</td>		<td>D</td>		<td>60% – 69%</td>	</tr>	<tr>		<td>B-</td>		<td>80% – 82%</td>		<td>F</td>		<td>0% – 59%</td>	</tr></table>If you disagree with any mark you receive, you must e-mail me to request an appointment, and we will set up a time to meet sometime the following day.  At this time (and not before), we will discuss your concerns and you may ask for the assignment/quiz to be regraded.  If you wish an assignment regraded, I reserve the right to regrade the entire assignment/quiz (not just a particular question), which means that your grade could go down upon regrading. ### PlagiarismAs with all other courses at Quest, you are expected to adhere to the university honour code.  In this course, any blatant act of cheating will receive a zero for the first offense, and an automatic failure for the second offense.  In both cases, I will immediately report the incident to the Chief Academic Officer.  
