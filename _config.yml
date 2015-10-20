@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "PHY2009"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "PHY3009 - Computation in the Physical Sciences"
+keywords:    ""
+description: "Course webpage"
 source_link: "https://github.com/PHY3009/PHY3009-2015"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
