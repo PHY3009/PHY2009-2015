@@ -27,7 +27,7 @@ the project (5%).
     <th style="padding: 5px;" align="center" valign="middle">Item</td> 
   </tr>
   <tr>
-    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-09</i></td>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-10-30</i></td>
     <td style="padding: 5px;" align="center" valign="middle">Final project proposal due</td> 
   </tr>
   <tr>
