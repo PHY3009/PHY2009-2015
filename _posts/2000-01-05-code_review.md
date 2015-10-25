@@ -18,3 +18,38 @@ the group. All participants will be expected to follow a strict [code of conduct
 The assessment for the group code review will be 20% for the 10 minute plan for your code, 
 60% for written comments on others code, and 20% for oral discussion of feedback on others 
 code.
+
+### Important dates:
+
+<center>
+<table>
+  <tr>
+    <th style="padding: 5px;" align="center" valign="middle"><i>Date</i></td>
+    <th style="padding: 5px;" align="center" valign="middle">Item</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-09</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Ten minute plan due</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-10</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Pull requests due & in-class code review</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-11</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Updated ten minute plan due</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-12</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Pull requests due & in-class code review</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-13</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Ten minute plan due</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-16</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Pull requests due & in-class code review</td> 
+  </tr>
+</center>
+</table>
