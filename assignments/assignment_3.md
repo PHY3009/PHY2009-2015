@@ -66,7 +66,7 @@ space between you first and last name.
   </tr>
   <tr>
     <th>Readability (20%)</td>
-    <td></td> 
+    <td>No variables are used.</td> 
     <td>Variable names are not meaningful.</td> 
     <td>Meaningful variable names are used.</td> 
     <td>Meaningful variable names are used. Complicated problems are broken down into multiple steps.</td> 
