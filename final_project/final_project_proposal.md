@@ -70,7 +70,8 @@ You are strongly encouraged to meet with and discuss your proposal with the tuto
     <td>Thoughts and ideas are well stated. Proposal is well organized.</td> 
     <td>Thoughts and ideas are clearly stated. Proposal is logical and exceptionally organized.</td> 
   </tr>
-  <tr>Grammar & spelling (5%)</td>
+  <tr>
+  	<td>Grammar & spelling (5%)</td>
     <td>Serious spelling, style and grammar flaws (> 6 errors)</td> 
     <td>Uses limited spelling, style and grammar (5-6 errors)</td> 
     <td>Uses adequate spelling, style and grammar (3-4 errors) </td> 
