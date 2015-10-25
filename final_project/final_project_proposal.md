@@ -3,18 +3,19 @@
 
 ## Instructions
 
-Please prepare a 1 page written proposal on the scientific problem you would like to 
-address for your final project. Please include the following sections:
+Please prepare a 1 page (600 words) written proposal on the scientific problem you would 
+like to address for your final project. Please include the following sections:
 
-1. Title
-2. Introduction: providing background information on the topic, and the clearly stating 
-the scientific question and hypothesis.
-3. Methods: how do you plan to solve/address the scientific question and/or test the 
+1. **Title**
+2. **Introduction**: providing background information on the topic, and the clearly 
+stating the scientific question and hypothesis.
+3. **Methods**: how do you plan to solve/address the scientific question and/or test the 
 hypothesis.
-4. Expected outcomes and significance: what do you expect to find? what impact could such
-findings have? what future research could this lead to?
-5. References: please read and cite a minimum of 3 papers from the primary literature on 
-your proposal topic.
+4. **Expected outcomes and significance**: what do you expect to find? what impact could 
+such findings have? what future research could this lead to?
+5. **References**: please read and cite a minimum of 3 papers from the primary literature 
+on your proposal topic. Choose a scientific journal from your field and use their reference
+formatting style.
 
 You are strongly encouraged to meet with and discuss your proposal with the tutor 
 **before** you hand this in.
