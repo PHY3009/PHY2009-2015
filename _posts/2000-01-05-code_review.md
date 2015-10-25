@@ -45,7 +45,7 @@ code.
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-13</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">Ten minute plan due</td> 
+    <td style="padding: 5px;" align="center" valign="middle">Updated ten minute plan due</td> 
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-16</i></td>
