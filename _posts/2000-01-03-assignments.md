@@ -40,7 +40,7 @@ All other assignment submission will be via Github.
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>3</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-10-29 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Solving problems in Python 1</td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/PHY3009-2015/blob/gh-pages/assignments/assignment_3.md">Solving problems in Python 1</a></td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>4</i></td>
