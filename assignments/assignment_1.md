@@ -6,7 +6,7 @@
 
 Write a Shell script which will create a directory structure and documentation files
 for a computational project. Advice and guidelines for project organization can be found
-in Noble, [2009](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+in [Noble, 2009](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 and many other places on the web. 
 
 * The Shell script should make critical directories required for any computational project.
