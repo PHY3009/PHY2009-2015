@@ -30,7 +30,7 @@ All other assignment submission will be via Github.
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>1</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-10-27 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Organizing & setting up a project directory</td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/PHY3009-2015/blob/gh-pages/assignments/assignment_1.md">Organizing & setting up a project directory</a></td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2</i></td>
