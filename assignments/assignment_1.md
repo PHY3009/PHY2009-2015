@@ -42,7 +42,7 @@ the purpose/role/function of each directory in your project.
     <td>The Shell script code creates a project directory structure, but there are no documentation files.</td> 
     <td>The Shell script code creates a project directory structure with empty documentation files.</td> 
     <td>The Shell script code creates a project directory structure with documentation files which describes the purpose/role/function of each directory in the project.</td> 
-    <td>The Shell script code creates a project directory structure with documentation files which describes the purpose/role/function of each directory in the project. A an empty LICENSE.md file is also created in the projects root directory./td> 
+    <td>The Shell script code creates a project directory structure with documentation files which describes the purpose/role/function of each directory in the project. A an empty LICENSE.md file is also created in the projects root directory.</td> 
   </tr>
   <tr>
     <th>Reusability (20%)</td>
