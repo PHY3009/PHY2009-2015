@@ -19,7 +19,7 @@ The assessment for the group code review will be 20% for the 10 minute plan for 
 60% for written comments on others code, and 20% for oral discussion of feedback on others 
 code.
 
-#### Important dates:
+#### **Important dates:**
 
 <center>
 <table>
