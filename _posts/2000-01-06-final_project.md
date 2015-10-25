@@ -17,3 +17,22 @@ and each other for help when needed. The project will be done under version cont
 submitted as a repository to Github. This assessment will consist of a proposal (5%), the 
 public repository (5%), a final written report (10%), and Jupyter notebook presentation of 
 the project (5%).
+
+### Important dates:
+
+<center>
+<table>
+  <tr>
+    <th style="padding: 5px;" align="center" valign="middle"><i>Date</i></td>
+    <th style="padding: 5px;" align="center" valign="middle">Item</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-09</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Final project proposal due</td> 
+  </tr>
+  <tr>
+    <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-18</i></td>
+    <td style="padding: 5px;" align="center" valign="middle">Final report due and final presentation</td> 
+  </tr>
+</center>
+</table>
