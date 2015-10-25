@@ -32,7 +32,7 @@ You are strongly encouraged to meet with and discuss your proposal with the tuto
     <th>Exceptional 90% – 100%</td> 
   </tr>
   <tr>
-    <th>Introduction(30%)</td>
+    <th> Introduction(30%)</td>
     <td>Introduction and/or background not provided. No clear scientific question & hypothesis.</td> 
     <td>Provides an introduction and background that is insignificant to the experiment. No clear scientific question & hypothesis.</td> 
     <td>Provides an introduction and background that is somewhat significant to the experiment. Clearly states the scientific question & hypothesis.</td> 
