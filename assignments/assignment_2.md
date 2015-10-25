@@ -28,8 +28,8 @@ Project and put this project under version control locally and remotely using Gi
     <td>Git commit messages do not reflect individual changes and give no indication of what was done.</td> 
     <td>Git commit messages exist for each individual change (<i>i.e.,</i> one for editing the README.md file and another one for editing the LISCENSE.md file), but give no indication of what was done.</td> 
     <td>Git commit messages exist for each individual change and Git commit messages give some idea of what was done.</td> 
-    <td>Remote Github repositories' README.md contains the project title, the students name and the date. Git commit messages exist for each individual change and the commit messages in the `git log` give some idea of what was done.</td> 
-    <td>Remote Github repositories' README.md contains the project title, the students name and the date. Git commit messages exist for each individual change and the commit messages in the `git log` make it clear what happened at each commit.</td> 
+    <td>Remote Github repositories' README.md contains the project title, the students name and the date. Git commit messages exist for each individual change and the commit messages in the <b>git log</b> give some idea of what was done.</td> 
+    <td>Remote Github repositories' README.md contains the project title, the students name and the date. Git commit messages exist for each individual change and the commit messages in the <b>git log</b> make it clear what happened at each commit.</td> 
   </tr>
   <tr>
     <th>Accuracy (20%)</td>
