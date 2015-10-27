@@ -35,7 +35,7 @@ All other assignment submission will be via Github.
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-10-28 </td> 
-    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/PHY3009-2015/blob/gh-pages/assignments/assignment_2.md">Versioning</a></td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/assignment_2/blob/master/instructions.md">Versioning</a></td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>3</i></td>
