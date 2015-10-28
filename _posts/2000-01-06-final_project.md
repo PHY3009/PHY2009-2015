@@ -18,6 +18,8 @@ submitted as a repository to Github. This assessment will consist of a proposal 
 public repository (5%), a final written report (10%), and Jupyter notebook presentation of 
 the project (5%).
 
+Need some inspiration for your proposal? Find some [here](https://github.com/PHY3009/PHY3009-2015/blob/gh-pages/final_project/final_project_inspiration.md).
+
 #### **Important dates:**
 
 <center>
