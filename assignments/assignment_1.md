@@ -1,6 +1,6 @@
 ## Assignment 1
 ### Computational project cookie cutter
-**due at 12 noon on 2015-10-27** via email to ttimbers@quest.ca
+**due at 12 noon on 2015-10-27** via email to ttimbers@questu.ca
 
 ## Instructions
 
