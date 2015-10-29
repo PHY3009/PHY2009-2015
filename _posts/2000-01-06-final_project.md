@@ -30,7 +30,7 @@ Need some inspiration for your proposal? Find some [here](https://github.com/PHY
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-02</i></td>
-    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/PHY3009-2015/blob/gh-pages/final_project/final_project_proposal.md">Final project proposal due</a></td> 
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/final_project_proposal/blob/master/instructions.md">Final project proposal due</a></td> 
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-18</i></td>
