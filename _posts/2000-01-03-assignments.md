@@ -69,26 +69,21 @@ All other assignment submission will be via Github.
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>9</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">2015-11-09 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Important Data Structures</td>
-  </tr>
-  <tr>
-    <td style="padding: 5px;" align="center" valign="middle"><i>10</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-10 </td> 
     <td style="padding: 5px;" align="center" valign="middle">Version Control 2</td>
   </tr>
   <tr>
-    <td style="padding: 5px;" align="center" valign="middle"><i>11</i></td>
+    <td style="padding: 5px;" align="center" valign="middle"><i>10</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-11 </td> 
     <td style="padding: 5px;" align="center" valign="middle">Debugging and Testing</td>
   </tr>
   <tr>
-    <td style="padding: 5px;" align="center" valign="middle"><i>12</i></td>
+    <td style="padding: 5px;" align="center" valign="middle"><i>11</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-12 </td> 
     <td style="padding: 5px;" align="center" valign="middle">Building Pipelines and Software</td>
   </tr>
   <tr>
-    <td style="padding: 5px;" align="center" valign="middle"><i>13</i></td>
+    <td style="padding: 5px;" align="center" valign="middle"><i>12</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-13 </td> 
     <td style="padding: 5px;" align="center" valign="middle">Publication</td>
   </tr>
