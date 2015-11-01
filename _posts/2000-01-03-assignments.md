@@ -50,27 +50,27 @@ All other assignment submission will be via Github.
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>5</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-03 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Analyzing & visualizing data</td>
+    <td style="padding: 5px;" align="center" valign="middle">Analyzing data</td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>6</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-04 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Regular Expressions</td>
+    <td style="padding: 5px;" align="center" valign="middle">Visualizing data</td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>7</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-05 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">NumPy: Thinking in Arrays</td>
+    <td style="padding: 5px;" align="center" valign="middle">Basic statistics in Python</td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>8</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-06 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Storing Data</td>
+    <td style="padding: 5px;" align="center" valign="middle">Regular expressions</td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>9</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-10 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Version Control 2</td>
+    <td style="padding: 5px;" align="center" valign="middle">Writing scripts in Python</td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>10</i></td>
