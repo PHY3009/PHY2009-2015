@@ -50,22 +50,22 @@ All other assignment submission will be via Github.
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>5</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-03 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Analyzing data</td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/assignment_5/blob/master/instructions.md">Analyzing data</a></td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>6</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-04 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Visualizing data</td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/assignment_6/blob/master/instructions.md">Visualizing data</a></td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>7</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-05 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Basic statistics in Python</td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/assignment_7/blob/master/instructions.md">Basic statistics in Python</a></td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>8</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-06 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Regular expressions</td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/assignment_8/blob/master/instructions.md">Regular expressions</a></td>
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>9</i></td>
