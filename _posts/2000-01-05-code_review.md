@@ -29,7 +29,7 @@ code.
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-09</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">Ten minute plan due</td> 
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/code_review/blob/master/Ten_Minute_Plan.md">Ten minute plan due</a></td> 
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-10</i></td>
