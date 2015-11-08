@@ -75,17 +75,7 @@ All other assignment submission will be via Github.
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>10</i></td>
     <td style="padding: 5px;" align="center" valign="middle">2015-11-11 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Debugging and Testing</td>
-  </tr>
-  <tr>
-    <td style="padding: 5px;" align="center" valign="middle"><i>11</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">2015-11-12 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Building Pipelines and Software</td>
-  </tr>
-  <tr>
-    <td style="padding: 5px;" align="center" valign="middle"><i>12</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">2015-11-13 </td> 
-    <td style="padding: 5px;" align="center" valign="middle">Publication</td>
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/assignment_10/blob/master/instructions.md">Debugging and Testing</A></td>
   </tr>
 </table>
 </center>  
