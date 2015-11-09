@@ -33,7 +33,7 @@ code.
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-10</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">Pull requests due & in-class code review</td> 
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/code_review/blob/master/code_review_instructions.md">Pull requests due & in-class code review</a></td> 
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-11</i></td>
@@ -41,7 +41,7 @@ code.
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-12</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">Pull requests due & in-class code review</td> 
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/code_review/blob/master/code_review_instructions.md">Pull requests due & in-class code review</a></td> 
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-13</i></td>
@@ -49,7 +49,7 @@ code.
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-16</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">Pull requests due & in-class code review</td> 
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/code_review/blob/master/code_review_instructions.md">Pull requests due & in-class code review</a></td> 
   </tr>
 </center>
 </table>
