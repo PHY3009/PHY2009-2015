@@ -34,7 +34,7 @@ Need some inspiration for your proposal? Find some [here](https://github.com/PHY
   </tr>
   <tr>
     <td style="padding: 5px;" align="center" valign="middle"><i>2015-11-18</i></td>
-    <td style="padding: 5px;" align="center" valign="middle">Final report due and final presentation</td> 
+    <td style="padding: 5px;" align="center" valign="middle"><a href="https://github.com/PHY3009/final_project/blob/master/final_project_instructions.md">Code, final report and final presentations due</a></td> 
   </tr>
 </center>
 </table>
