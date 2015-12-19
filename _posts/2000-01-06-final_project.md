@@ -15,7 +15,7 @@ given 6 hours of in-class time to work on the final project at the end of the co
 During these in class work-along sessions, students are encouraged to consult the tutor 
 and each other for help when needed. The project will be done under version control and 
 submitted as a repository to Github. This assessment will consist of a proposal (5%), the 
-code and public repository (40%), a final written report (25%), and a 10 minute Jupyter 
+code and public repository (45%), a final written report (25%), and a 10 minute Jupyter 
 notebook presentation of the project (25%).
 
 Need some inspiration for your proposal? Find some [here](https://github.com/PHY3009/PHY3009-2015/blob/gh-pages/final_project/final_project_inspiration.md).
